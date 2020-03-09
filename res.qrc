@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>data/leaves.obj</file>
+        <file>data/tree.obj</file>
+        <file>data/texture/TexturesCom_TreeBark2_512_albedo.tif</file>
+        <file>data/texture/TexturesCom_TreeBark2_512_ao.tif</file>
+        <file>data/texture/TexturesCom_TreeBark2_512_height.tif</file>
+        <file>data/texture/TexturesCom_TreeBark2_512_normal.tif</file>
+        <file>data/texture/TexturesCom_TreeBark2_512_roughness.tif</file>
+        <file>data/texture/TexturesCom_Grass0027_1_seamless_S.jpg</file>
+        <file>data/plane.obj</file>
+    </qresource>
+</RCC>
